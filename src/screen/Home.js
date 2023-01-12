@@ -3,7 +3,7 @@ import logo from '../assets/logo.svg'
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 import {useEffect, useState} from "react";
-import { useRanger } from "react-ranger";
+
 import {useNavigate} from "react-router-dom";
 
 const Home = () => {
